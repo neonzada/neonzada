@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on open source projects and localization projects to PT-BR.
 - 📫 How to reach me: you can DM me on Discord ```neonzada#9496``` <img src="discord.svg" width="16" height="16">
 - ⚡ Knowledge:
-* .Net Core
-* .Net Framework
-* Relational Databases (MySQL) and Non Relational Database (MongoDB);
-* Git
-* Microcontrollers and Arduino
-* Linux
+-* .Net Core
+-* .Net Framework
+-* Relational Databases (MySQL) and Non Relational Database (MongoDB);
+-* Git
+-* Microcontrollers and Arduino
+-* Linux
 
 
 <!---
