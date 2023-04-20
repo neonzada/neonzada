@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET technologies and its entire ecosystem.
 - 🌱 I’m currently learning C++ and C#.
 - 💞️ I’m looking to collaborate on open source projects and localization projects to PT-BR.
-- 📫 How to reach me: you can DM me on Discord ```neonzada#9496```<img src="[Discord](https://user-images.githubusercontent.com/12803588/233433477-749e6dbb-8a20-48ad-91d4-9836e6a3c80f.svg)" width="64" height="64">
+- 📫 How to reach me: you can DM me on Discord ```neonzada#9496```<img src="[Discord](https://user-images.githubusercontent.com/12803588/233433477-749e6dbb-8a20-48ad-91d4-9836e6a3c80f.svg)" width="16" height="16">
 
 
 <!---
