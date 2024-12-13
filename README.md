@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on open source projects and localization projects to PT-BR.
 - 📫 How to reach me: you can DM me on Discord ```neonzada``` <img src="discord.svg" width="16" height="16">
 - ⚡ Knowledge:
-  - C
-  - C++
+  - C/C++
+  - VHDL/Verilog
   - Low-level programming (MIPS, x86 assembly)
   - Elixir
   - .Net Core
