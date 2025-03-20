@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AF38F7&center=true&repeat=false&width=435&lines=neonzada)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AF38F7&center=true&width=435&lines=Low+level+programming;Natural+language+processing;Researcher%2C+student%2C+learner)](https://git.io/typing-svg)
+
 [![wakatime](https://wakatime.com/badge/user/505eac5d-145c-400e-9f68-7d22aaab0e2d.svg)](https://wakatime.com/@505eac5d-145c-400e-9f68-7d22aaab0e2d)
 
 👋 Hello, I’m @neonzada
