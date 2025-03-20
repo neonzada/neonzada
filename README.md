@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://static.demilked.com/wp-content/uploads/2016/05/old-photos-japan-1908-arnold-genthe-1.jpg" width="400" align="left">
+  <img src="https://static.demilked.com/wp-content/uploads/2016/05/old-photos-japan-1908-arnold-genthe-1.jpg" width="300" align="left">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AF38F7&center=true&repeat=false&width=435&lines=neonzada)](https://git.io/typing-svg)
