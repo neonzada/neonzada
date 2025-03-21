@@ -19,6 +19,7 @@ stack: c, c++, java, python, vhdl, mips and x86 assembly
 
 learning: elixir, rust, go
 
+meiji era photo by Arnold Genthe
 
 [twitter]: https://twitter.com/neonzada
 [linkedin]: https://www.linkedin.com/in/allan-duarte-ehlert-ab104220b
