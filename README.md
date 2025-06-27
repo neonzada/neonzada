@@ -1,6 +1,8 @@
+<!--
 <p float="left">
   <img src="https://github.com/user-attachments/assets/274d7362-e922-4891-ab0f-88b74572d0cd" width="300" align="left">
 </p>
+--->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AF38F7&center=true&repeat=false&width=435&lines=neonzada)](https://git.io/typing-svg)
 
