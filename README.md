@@ -21,8 +21,6 @@ stack: c, c++, java, python, vhdl, mips and x86 assembly
 
 learning: elixir, rust, go
 
-illustration by アサハル (@usagi_792602)
-
 [twitter]: https://twitter.com/neonzada
 [linkedin]: https://www.linkedin.com/in/allan-duarte-ehlert-ab104220b
 [website]: https://neonzada.neocities.org
